@@ -1,6 +1,6 @@
 # gcp-terraform
 
-This is repo demonstratis a very simple project and GKE cluster setup via Terrform.
+This is repo demonstrates a very simple project and GKE cluster setup via Terrform.
 
 An adaptation of instructions on how to setup a project via documention - https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform
 
